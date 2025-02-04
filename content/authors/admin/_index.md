@@ -99,7 +99,24 @@ work:
       - Briefing before work.
       - Checking the production process.
       - Assisting the production process.
-      - Reporting production results.     
+      - Reporting production results.    
+  - position: Front Office
+    company_name: Bliss Soetta Hotel
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-12-09
+    date_end: 
+    summary: |2-
+      Responsibilities include:
+      - Greeting guests at check-in.
+      - Ensuring a smooth check-in process
+      - Handling the check-out process
+      - Managing room reservations
+      - Providing information to guests
+      - Handling guest complaints and issues
+      - Managing internal communications
+      - Recording guest financial transactions
+      - Compiling guest visit histories     
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
